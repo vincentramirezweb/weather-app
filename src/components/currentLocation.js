@@ -7,27 +7,27 @@ import ReactAnimatedWeather from "react-animated-weather";
 
 const dateBuilder = (d) => {
   let months = [
-    "January",
-    "February",
-    "March",
-    "April",
-    "May",
-    "June",
-    "July",
-    "August",
-    "September",
-    "October",
-    "November",
-    "December",
+    "Enero",
+    "Febrero",
+    "Marzo",
+    "Abril",
+    "Mayo",
+    "Junio",
+    "Julio",
+    "Agosto",
+    "Septiembre",
+    "Octubre",
+    "Noviembre",
+    "Diciembre",
   ];
   let days = [
-    "Sunday",
-    "Monday",
-    "Tuesday",
-    "Wednesday",
-    "Thursday",
-    "Friday",
-    "Saturday",
+    "Domingo",
+    "Lunes",
+    "Martes",
+    "Miercoles",
+    "Jueves",
+    "Viernes",
+    "Sabado",
   ];
 
   let day = days[d.getDay()];
