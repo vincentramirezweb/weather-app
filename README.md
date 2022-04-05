@@ -10,11 +10,11 @@ Challenge: Create an app where we can check the weather of our location and also
 
 <div align="center">
   <h3>
-    <a href="https://quote-random-academlo.netlify.app" >
+    <a href="https://weather-app-temp-sun.netlify.app" >
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/vincentramirezweb">
+    <a href="https://github.com/vincentramirezweb/weather-app.git">
       Solution
     </a>
   </h3>
